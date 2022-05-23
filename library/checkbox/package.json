@@ -1,12 +1,12 @@
 {
   "name": "@senyumku-ui-web/checkbox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@senyumku-ui-web/color": "^2.0.0",
-    "@senyumku-ui-web/shape": "^2.0.0",
-    "@senyumku-ui-web/spacing": "^2.0.0"
+    "@senyumku-ui-web/color": "^2.0.1",
+    "@senyumku-ui-web/shape": "^2.0.1",
+    "@senyumku-ui-web/spacing": "^2.0.1"
   },
   "publishConfig": {
     "access": "public"

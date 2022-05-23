@@ -1,14 +1,14 @@
 {
   "name": "@senyumku-ui-web/select",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@senyumku-ui-web/color": "^2.0.0",
-    "@senyumku-ui-web/shape": "^2.0.0",
-    "@senyumku-ui-web/typography": "^2.0.0"
+    "@senyumku-ui-web/color": "^2.0.1",
+    "@senyumku-ui-web/shape": "^2.0.1",
+    "@senyumku-ui-web/typography": "^2.0.1"
   }
 }

@@ -1,15 +1,15 @@
 {
   "name": "@senyumku-ui-web/alert-box",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@senyumku-ui-web/color": "^2.0.0",
-    "@senyumku-ui-web/shape": "^2.0.0",
-    "@senyumku-ui-web/spacing": "^2.0.0",
-    "@senyumku-ui-web/typography": "^2.0.0"
+    "@senyumku-ui-web/color": "^2.0.1",
+    "@senyumku-ui-web/shape": "^2.0.1",
+    "@senyumku-ui-web/spacing": "^2.0.1",
+    "@senyumku-ui-web/typography": "^2.0.1"
   }
 }
