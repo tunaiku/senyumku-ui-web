@@ -1,8 +1,8 @@
 {
-  "name": "@amar-ui-web/docs",
+  "name": "@senyumku-ui-web/docs",
   "version": "2.0.0",
   "private": true,
-  "description": "@amar-ui-web/docs",
+  "description": "@senyumku-ui-web/docs",
   "author": "dkk94",
   "keywords": [
     "gatsby"
@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@amar-ui-web/core": "^2.0.0",
+    "@senyumku-ui-web/core": "^2.0.0",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "classnames": "^2.3.1",

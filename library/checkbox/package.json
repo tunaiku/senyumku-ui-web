@@ -1,12 +1,12 @@
 {
-  "name": "@amar-ui-web/checkbox",
+  "name": "@senyumku-ui-web/checkbox",
   "version": "2.0.0",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@amar-ui-web/color": "^2.0.0",
-    "@amar-ui-web/shape": "^2.0.0",
-    "@amar-ui-web/spacing": "^2.0.0"
+    "@senyumku-ui-web/color": "^2.0.0",
+    "@senyumku-ui-web/shape": "^2.0.0",
+    "@senyumku-ui-web/spacing": "^2.0.0"
   },
   "publishConfig": {
     "access": "public"

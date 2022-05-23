@@ -1,19 +1,19 @@
 ---
 path: '/getting-started'
 title: 'Getting Started'
-description: 'Guide on how to install and setup Amar UI Web in your project.'
+description: 'Guide on how to install and setup Senyumku UI Web in your project.'
 ---
 
-Amar UI Web can be installed via **package managers** like `yarn` or `npm`.
+Senyumku UI Web can be installed via **package managers** like `yarn` or `npm`.
 
 ```bash
-$ npm install @amar-ui-web/core
-$ yarn add @amar-ui-web/core
+$ npm install @senyumku-ui-web/core
+$ yarn add @senyumku-ui-web/core
 ```
 
 ## Usage
 
-Upon installation, `@amar-ui-web/core` and all its underlying packages will be accessible from
+Upon installation, `@senyumku-ui-web/core` and all its underlying packages will be accessible from
 inside your project's `node_modules` folder, but you might notice that **you're unable to access
 them directly**. This is because you need to resolve your project's `node_modules` path first; each
 package uses _absolute import_ to depend on each other using Sass' `@import`. If you haven't done
@@ -23,17 +23,17 @@ this, please follow the instructions in the
 Once you're done, you should be able import the package like this:
 
 ```scss
-@import '@amar-ui-web/core';
+@import '@senyumku-ui-web/core';
 // or
-@import '@amar-ui-web/core/index.scss';
+@import '@senyumku-ui-web/core/index.scss';
 ```
 
 If you would like to use individual packages/modules, you can import them directly using the
-`@amar-ui-web/<package-name>/<package-name>.scss` format. For example:
+`@senyumku-ui-web/<package-name>/<package-name>.scss` format. For example:
 
 ```scss
-@import '@amar-ui-web/color/color.scss';
-@import '@amar-ui-web/typography/typography.scss';
+@import '@senyumku-ui-web/color/color.scss';
+@import '@senyumku-ui-web/typography/typography.scss';
 ```
 
 Or if you only need to import the abstracts of a specific package (variables, functions, or mixins),
@@ -41,13 +41,13 @@ simply import the `/scss` folder or `/scss/index.scss` file of the specific pack
 include. The `index.scss` file contains all of the abstracts needed for that package.
 
 ```scss
-@import '@amar-ui-web/color/scss';
-@import '@amar-ui-web/typography/scss';
-@import '@amar-ui-web/shape/scss';
+@import '@senyumku-ui-web/color/scss';
+@import '@senyumku-ui-web/typography/scss';
+@import '@senyumku-ui-web/shape/scss';
 // or
-@import '@amar-ui-web/color/scss/index.scss';
-@import '@amar-ui-web/typography/scss';
-@import '@amar-ui-web/shape/scss';
+@import '@senyumku-ui-web/color/scss/index.scss';
+@import '@senyumku-ui-web/typography/scss';
+@import '@senyumku-ui-web/shape/scss';
 ```
 
 ## Resolving `node_modules` Path

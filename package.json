@@ -1,9 +1,9 @@
 {
-  "name": "amar-ui-web",
+  "name": "senyumku-ui-web",
   "version": "1.0.0",
   "private": true,
   "description": "Amar Web UI is an interface and CSS library that follows Tunaiku Design System.",
-  "repository": "https://github.com/dkk94/amar-ui-web.git",
+  "repository": "https://github.com/dkk94/senyumku-ui-web.git",
   "license": "MIT",
   "author": "dkk94 <davidkurniakristiadi@gmail.com>",
   "main": "index.js",
@@ -14,9 +14,9 @@
   "scripts": {
     "build": "webpack --mode=development --env.NODE_ENV=development --progress --colors --display=minimal",
     "build:all": "yarn build && yarn build:min",
-    "build:docs": "lerna exec --scope=@amar-ui-web/docs -- yarn build",
+    "build:docs": "lerna exec --scope=@senyumku-ui-web/docs -- yarn build",
     "build:min": "webpack --mode=production --env.NODE_ENV=production --progress --colors --display=minimal",
-    "start:docs": "lerna exec --scope=@amar-ui-web/docs -- yarn start"
+    "start:docs": "lerna exec --scope=@senyumku-ui-web/docs -- yarn start"
   },
   "config": {
     "commitizen": {

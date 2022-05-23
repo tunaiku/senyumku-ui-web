@@ -13,7 +13,7 @@ module.exports = env => {
   const isProd = env.NODE_ENV === 'production';
 
   return {
-    name: 'amar-ui-web',
+    name: 'senyumku-ui-web',
     entry: {
       index: path.join(__dirname, '/library/core/index.scss'),
     },
