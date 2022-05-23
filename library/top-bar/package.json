@@ -1,10 +1,10 @@
 {
   "name": "@senyumku-ui-web/top-bar",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@senyumku-ui-web/spacing": "^2.0.0"
+    "@senyumku-ui-web/spacing": "^3.0.0"
   },
   "publishConfig": {
     "access": "public"

@@ -1,14 +1,14 @@
 {
   "name": "@senyumku-ui-web/pagination",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@senyumku-ui-web/color": "^2.0.0",
-    "@senyumku-ui-web/shape": "^2.0.0",
-    "@senyumku-ui-web/spacing": "^2.0.0"
+    "@senyumku-ui-web/color": "^3.0.0",
+    "@senyumku-ui-web/shape": "^3.0.0",
+    "@senyumku-ui-web/spacing": "^3.0.0"
   }
 }
