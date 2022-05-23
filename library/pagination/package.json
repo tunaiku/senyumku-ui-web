@@ -1,5 +1,5 @@
 {
-  "name": "@amar-ui-web/pagination",
+  "name": "@senyumku-ui-web/pagination",
   "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,8 +7,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@amar-ui-web/color": "^2.0.0",
-    "@amar-ui-web/shape": "^2.0.0",
-    "@amar-ui-web/spacing": "^2.0.0"
+    "@senyumku-ui-web/color": "^2.0.0",
+    "@senyumku-ui-web/shape": "^2.0.0",
+    "@senyumku-ui-web/spacing": "^2.0.0"
   }
 }

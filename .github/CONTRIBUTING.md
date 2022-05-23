@@ -4,13 +4,13 @@ structured.
 
 # Project Overview
 
-Amar UI Web is a collection of styles written in Sass (SCSS) which is split into two main folders
-`library/` and `docs/`.
+Senyumku UI Web is a collection of styles written in Sass (SCSS) which is split into two main
+folders `library/` and `docs/`.
 
 The `library/` folder is where you will find the styles for all components, utilities, layouts, or
 as we call them modules, each of which is split into **packages**.
 
-To manage these packages, Amar UI Web uses the combination of **Lerna** and **Yarn Workspaces**.
+To manage these packages, Senyumku UI Web uses the combination of **Lerna** and **Yarn Workspaces**.
 
 - **Yarn Workspaces** will help in linking one package with another without directly adding the
   dependency to each one during development if needed (although it will still need to be added to
@@ -32,7 +32,7 @@ You can contribute to the project in several ways:
 ## Reporting a bug
 
 If you found a bug in the source code, help us contribute to the project by submitting an issue in
-our repository's [issue tracker](https://github.com/tunaiku/amar-ui-web/issues).
+our repository's [issue tracker](https://github.com/tunaiku/senyumku-ui-web/issues).
 
 A good bug report describes the complete detail of the issue to the point maintainers don't need to
 chase you for more information. Try to be as detailed as possible when reporting the bug so we can
@@ -41,7 +41,7 @@ start working on the issue ASAP.
 ## Requesting a feature
 
 You are free to request a new feature by submitting an issue in the
-[issue tracker](https://github.com/tunaiku/amar-ui-web/issues).
+[issue tracker](https://github.com/tunaiku/senyumku-ui-web/issues).
 
 It would help us immensely if you provide a minimal documentation or proposal to describe the reason
 why you need this specific feature.

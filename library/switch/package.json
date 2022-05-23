@@ -1,5 +1,5 @@
 {
-  "name": "@amar-ui-web/switch",
+  "name": "@senyumku-ui-web/switch",
   "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@amar-ui-web/color": "^2.0.0",
-    "@amar-ui-web/shape": "^2.0.0"
+    "@senyumku-ui-web/color": "^2.0.0",
+    "@senyumku-ui-web/shape": "^2.0.0"
   }
 }

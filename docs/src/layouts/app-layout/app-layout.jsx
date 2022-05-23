@@ -29,7 +29,7 @@ const AppLayout = ({ children }) => {
                   />
                 </svg>
               </div>
-              <div className="Navbar-logo">Amar UI</div>
+              <div className="Navbar-logo">Senyumku UI</div>
             </div>
             <div className="Navbar-menu">
               <div className="Navbar-link">
